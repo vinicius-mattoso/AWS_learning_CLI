@@ -43,11 +43,3 @@
 
 3. Subir arquivos para o bucket
     
-
-
-
-    
-
-    ACESS: AKIA2UC3ERNNN257FEG6
-    KEY : LXek45xSeLexl9RPmu9e8Xtb35LKxG8ptE3eQB3i
-    REGIO: us-east-1 -> N. Virginiak
